@@ -14,6 +14,8 @@ This project is done by using the dataset Iris from sklearn. This is a unsupervi
 8. AgglomerativeClustering
 9. Silhouette Score
 10. dendrogram
+
+# Steps followed
 Load the dataset and clean the data set by using isnull to know the null values and duplicate function used for find out duplicate values and took the info to know the overall about the dataset.
 By using describe function we took the statistical values to find the mean median.
 Scatterplot is used to find the pattern of data distributed and after that the data is standardised by usig srandardscaler.
